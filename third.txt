@@ -1,3 +1,5 @@
 Using smartgit in third.txt
 
 Online edit
+
+Edit file
